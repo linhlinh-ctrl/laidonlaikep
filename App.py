@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("Screenshot_2026-06-16-15-36-34-273_com.miui.gallery-edit.jpg")
 # Tiêu đề ứng dụng
 st.title("💰 Ứng dụng tính tiền gửi tiết kiệm _ Trần Thị Diệu Linh")
 
